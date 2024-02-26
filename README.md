@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Lawor55!</h1>
-<h3 align="center">A passionate Game development student from Germany</h3>
+<h3 align="center">A passionate Game Developer from Germany</h3>
 
 <p><br></p>
 Some Informations about me:
@@ -22,7 +22,7 @@ Some Informations about me:
 
 - 🖥️ I’m currently working with **C# and the Unity Engine**
 
-- 📫 Reach me at **lawor55@gmail.com**
+- 📫 Reach me on Discord as **lawor55** or at **lawor55@gmail.com**
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lawor55&theme=blue-navy&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=2452FF&sideNums=2452FF&background=45%2C0D1E5F%2C000000)](https://git.io/streak-stats)
