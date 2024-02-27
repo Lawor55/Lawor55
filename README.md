@@ -24,6 +24,8 @@ Some Informations about me:
 
 - 📫 Reach me on Discord as **lawor55** or at **lawor55@gmail.com**
 
+- 🕹️ Play some of my Projects here: https://lawor55.itch.io
+<p><br></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lawor55&theme=blue-navy&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=2452FF&sideNums=2452FF&background=45%2C0D1E5F%2C000000)](https://git.io/streak-stats)
 
