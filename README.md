@@ -22,7 +22,7 @@ Some Informations about me:
 
 - 🖥️ I’m currently working with **C# and the Unity Engine**
 
-- 📫 Reach me on Discord as **lawor55** or at **lawor55@gmail.com**
+- 📫 Reach me on **Discord** as **lawor55** or at **lawor55@gmail.com**
 
 - 🕹️ Play some of my Projects here: https://lawor55.itch.io
 <p><br></p>
