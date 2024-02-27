@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p><br></p>
 Some Informations about me:
 
-- 🔭 I’m currently in my last year of a **Game Developer studies**
+- 🔭 I’m currently in my last year of my **Game Development studies**
 
 - 🖥️ I’m currently working with **C# and the Unity Engine**
 
